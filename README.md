@@ -17,4 +17,4 @@ Use cases explored include popular datasets in the literature of these models, a
 
 "Gradient Boosting with XGBoost and Scikit-Learn" by Wade: https://amz.run/5fh
 
-
+"Machine Learning Automation with TPOT" by Radecic: https://amz.run/5mMg
